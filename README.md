@@ -1,6 +1,6 @@
 # wordbomb
 
-A CLI tool that suggests the best words to play for a given letter sequence in [WordBomb](https://orteil.dashnet.org/wordbomb).
+A CLI tool that suggests the best words to play for a given letter sequence in [WordBomb](https://wordbomb.io/).
 
 ## Usage
 
@@ -19,7 +19,7 @@ Returns the top 3 words ranked by a combination of popularity and ideal word len
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/wordbomb
+git clone https://github.com/mano-coder/wordbomb
 cd wordbomb
 chmod +x wordbomb.sh
 ./wordbomb.sh <sequence>
